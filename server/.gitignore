@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+
+# Bytecode and cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Editor folders
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Ollama and model cache (if used in backend)
+.ollama/
+.cache/
+huggingface/
